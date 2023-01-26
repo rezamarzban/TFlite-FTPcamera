@@ -1,9 +1,13 @@
 # TFlite-FTPcamera
 Android Kotlin and Java codes object detection on phone Camera using tflite interpreter, And take FTP action on human detection (Send detected person image to FTP server).
 
-It is most simple and up to date AI network Android project which has few codes to understanding and developing. Just clone the repository and change everything easily that you want.
+It is most simple and up to date AI network Android project after `https://github.com/marzban2030/TFLiteObjectDetection` project which has few codes to understanding and developing. Just clone the repository and change everything easily that you want.
 
-More advanced higher accuracy app is in below repository:
+More advanced higher accuracy app with less codes and components is in below repository:
+
+https://github.com/marzban2030/TFLiteObjectDetection
+
+More advanced higher accuracy app with more codes and components is in below repository:
 
 https://github.com/marzban2030/Camera-tflite-FTP
 
